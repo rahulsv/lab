@@ -6,3 +6,11 @@ After merging on the repo came to local directory.
 Checkout to master.
 The file was not there.
 Did a git pull. File came.
+
+Added some code to the file and did git add, git commit and git push origin to master.
+
+Checked out to R01.
+The file DOES NOT have the code that was added in the master.
+
+So the code is in Master version but not in R01 version.
+Good opportunity to edit the R01 version and see the conflict.
