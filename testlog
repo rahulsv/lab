@@ -1,3 +1,6 @@
 This is a test log. 
 Created R01.
 Will push and create a pull req to put it into master also.
+
+
+This is the conflict line. It is in R01 but not in master
